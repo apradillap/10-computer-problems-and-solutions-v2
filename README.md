@@ -50,12 +50,10 @@
 
 * Tool: [Repl.it Ruby](https://repl.it/languages/ruby)
 
-* LinkedIn Job Search: 9 results (Spain)
-
 
 ## 9. Python (Machine Learning)
 
-* Tool: [Google Collaboratory] (https://colab.research.google.com)
+* Tool: [Google Collaboratory](https://colab.research.google.com)
 
 
 ## 10. Data visualization (Data)
